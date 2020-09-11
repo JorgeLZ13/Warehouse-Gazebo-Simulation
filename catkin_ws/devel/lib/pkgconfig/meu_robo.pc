@@ -1,0 +1,8 @@
+prefix=/home/jorge/catkin_ws/devel
+
+Name: meu_robo
+Description: Description of meu_robo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
